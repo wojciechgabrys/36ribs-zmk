@@ -1,6 +1,0 @@
-if SHIELD_RIBS
-
-config ZMK_KEYBOARD_NAME
-    default "ribs"
-
-endif
