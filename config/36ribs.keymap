@@ -91,6 +91,11 @@
             bindings = <&kp BACKSPACE>;
             key-positions = <8 9>;
         };
+
+        esc2 {
+            bindings = <&kp ESCAPE>;
+            key-positions = <16 17 18>;
+        };
     };
 
     keymap {
