@@ -26,6 +26,6 @@ include:
   #   shield: 36ribs
   #   cmake-args: -DCONFIG_ZMK_STUDIO=y
   #   artifact-name: 36ribs-studio
-  - board: nice_nano_v2
-    shield: settings_reset
-    artifact-name: settings_reset
+  # - board: nice_nano_v2
+  #   shield: settings_reset
+  #   artifact-name: settings_reset
